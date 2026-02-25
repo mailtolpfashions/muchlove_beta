@@ -1,0 +1,14 @@
+I need quick pay back that round icon with gpay inspired screen but I the screen portion should be below select or add customer section
+User able to view Frequently billed services section after select or add customer section
+once user selected the frequently billed service then only user should able to view billing items
+user selected option in the frequently billed service should be highlighted
+add cart with + -  above bill summary selection 
+And i can see black space below Add customer screen and payment successful screen. pls refer attached 3 and 4 image i want like that
+In Settings page, customer subpage visit count not updating properly refer attached 5th image
+In Sales page, add time after date so user can see when exactly billed
+
+and pls add these, system should not allow to place order without customer. (disable the place order icon only enable when user selected customer)
+enable mobile notification for admin user, for every sales admin got notified
+add last 30 days graph chart in dashboard section for admin 
+add "All" filter in sale page to view all transaction
+Add option for share invoice in payment successful msg screen and sales transaction so user can share the pdf to customers through apps or download the pdf
