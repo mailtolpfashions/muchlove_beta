@@ -104,6 +104,12 @@ eas env:delete preview --variable-name EXPO_PUBLIC_SUPABASE_URL
 -- Run this in Supabase SQL Editor if the app did not seed users (e.g. RLS blocking).
 -- Log in with: admin / admin123  or  employee / emp123
 
+
+EVN:
+EXPO_PUBLIC_SUPABASE_URL=https://ddaptndonmardgqyemah.supabase.co
+EXPO_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRkYXB0bmRvbm1hcmRncXllbWFoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE3NDI1MDIsImV4cCI6MjA4NzMxODUwMn0.1cTPWkQhB6nF5OcJIraxl8nbvRQ-JmWvC5q5g1oES30
+
+
 INSERT INTO users (id, username, password_hash, name, role, created_at) VALUES
   ('seed_admin_1', 'admin', 'veeet2c8e6', 'Administrator', 'admin', now()),
   ('seed_employee_1', 'employee', 'vs6h1w80ks', 'Staff Member', 'employee', now())
